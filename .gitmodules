@@ -1,3 +1,4 @@
 [submodule "ompl"]
 	path = ompl
 	url = git@github.com:nataliya-dev/ompl.git
+  branch = main
